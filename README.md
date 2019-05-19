@@ -1,0 +1,2 @@
+# OpenGLHelloWorld
+OpenGL project configuration
